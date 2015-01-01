@@ -1,0 +1,25 @@
+{
+  "groupName": "Player",
+  "members": [
+    "2a1b32c1-9f9c-46ed-8be2-ee6aae5fd0cd"
+  ],
+  "perms": [
+    "cmd.motd",
+    "cmd.ping",
+    "cmd.say",
+    "cmd.tps",
+    "cmd.whereis",
+    "cmd.teleport",
+    "cmd.kill",
+    "cmd.tell",
+    "cmd.back",
+    "cmd.help",
+    "cmd.tprequest",
+    "cmd.home",
+    "cmd.nick",
+    "cmd.tpdim",
+    "cmd.listperms",
+    "cmd.me"
+  ],
+  "chatColor": "white"
+}

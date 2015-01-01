@@ -1,0 +1,14 @@
+{
+  "mods": {
+    "1.7.10": {
+      "codechickenlib-1.7.10-1.1.1.110-universal.jar": true,
+      "forgemultipart-1.7.10-1.1.0.314-universal.jar": true,
+      "macros": true,
+      "mrtjpcore-1.7.10-1.0.3.5-universal.jar": true,
+      "newlaunch": true,
+      "voxelmap": true,
+      "wecui": true,
+      "worldeditwrapper": true
+    }
+  }
+}

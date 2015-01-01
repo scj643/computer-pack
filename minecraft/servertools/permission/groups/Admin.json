@@ -1,0 +1,13 @@
+{
+  "groupName": "Admin",
+  "members": [
+    "a9cdb0cb-798f-40a2-98bf-cc02fed9358b",
+    "2a1b32c1-9f9c-46ed-8be2-ee6aae5fd0cd",
+    "8f8e44d5-47dd-4267-9d6c-7ee7764486bb"
+  ],
+  "perms": [
+    "*"
+  ],
+  "parentGroup": "Moderator",
+  "chatColor": "red"
+}

@@ -1,0 +1,2 @@
+Hello, $PLAYER$!
+Welcome to my lan world!
