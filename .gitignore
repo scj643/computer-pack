@@ -1,0 +1,10 @@
+#text backup files
+*~
+#logs
+*.log
+*.log.gz
+#Save dir
+/minecraft/saves
+/minecraft/crash-reports/
+/minecraft/asm/
+/minecraft/screenshots/
