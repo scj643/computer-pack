@@ -4,7 +4,7 @@ ofFogStart:0.8
 ofMipmapType:0
 ofLoadFar:false
 ofPreloadedChunks:0
-ofOcclusionFancy:false
+ofOcclusionFancy:true
 ofSmoothFps:true
 ofSmoothWorld:true
 ofAoLevel:0.14788732

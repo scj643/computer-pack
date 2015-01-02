@@ -94,6 +94,9 @@ key_key.archimedes.decompile:27
 key_key.archimedes.shipinv:37
 key_wecui.keys.toggle:0
 key_wecui.keys.clear:0
+key_[GC] Galaxy Map:26
+key_[GC] Open Spaceship Inventory:33
+key_[GC] Toggle Sensor Goggles Mode:39
 key_key.lasers:68
 key_Baubles Inventory:23
 key_Glider Toggle:34
