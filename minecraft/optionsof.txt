@@ -4,10 +4,10 @@ ofFogStart:0.8
 ofMipmapType:0
 ofLoadFar:false
 ofPreloadedChunks:0
-ofOcclusionFancy:true
-ofSmoothFps:false
+ofOcclusionFancy:false
+ofSmoothFps:true
 ofSmoothWorld:true
-ofAoLevel:1.0
+ofAoLevel:0.14788732
 ofClouds:0
 ofCloudsHeight:0.0
 ofTrees:0
@@ -42,7 +42,7 @@ ofStars:true
 ofSunMoon:true
 ofChunkUpdates:1
 ofChunkLoading:1
-ofChunkUpdatesDynamic:false
+ofChunkUpdatesDynamic:true
 ofTime:0
 ofClearWater:false
 ofDepthFog:true
@@ -59,6 +59,6 @@ ofShowCapes:true
 ofNaturalTextures:false
 ofLazyChunkLoading:true
 ofFullscreenMode:Default
-ofFastMath:false
+ofFastMath:true
 ofFastRender:true
 ofTranslucentBlocks:2
