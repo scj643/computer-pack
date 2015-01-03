@@ -9,7 +9,7 @@ particles:0
 bobView:false
 anaglyph3d:false
 advancedOpengl:true
-maxFps:20
+maxFps:25
 fboEnable:true
 difficulty:0
 fancyGraphics:false
@@ -115,7 +115,7 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_invtweaks.key.sort:64
-key_Mekanism Mode Switch:35
+key_Mekanism Mode Switch:40
 key_Mekanism Voice:22
 key_key.tarmor:24
 key_key.tgoggles:47
