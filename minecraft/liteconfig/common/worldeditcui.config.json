@@ -2,39 +2,39 @@
   "debugMode": false,
   "ignoreUpdates": false,
   "cuboidGridColor": {
-    "hex": "#CC3333CC"
+    "hex": "#cc3333cc"
   },
   "cuboidEdgeColor": {
-    "hex": "#CC4C4CCC"
+    "hex": "#cc4c4ccc"
   },
   "cuboidFirstPointColor": {
-    "hex": "#33CC33CC"
+    "hex": "#33cc33cc"
   },
   "cuboidSecondPointColor": {
-    "hex": "#3333CCCC"
+    "hex": "#3333cccc"
   },
   "polyGridColor": {
-    "hex": "#CC3333CC"
+    "hex": "#cc3333cc"
   },
   "polyEdgeColor": {
-    "hex": "#CC4C4CCC"
+    "hex": "#cc4c4ccc"
   },
   "polyPointColor": {
-    "hex": "#33CCCCCC"
+    "hex": "#33cccccc"
   },
   "ellipsoidGridColor": {
-    "hex": "#CC4C4CCC"
+    "hex": "#cc4c4ccc"
   },
   "ellipsoidPointColor": {
-    "hex": "#CCCC33CC"
+    "hex": "#cccc33cc"
   },
   "cylinderGridColor": {
-    "hex": "#CC3333CC"
+    "hex": "#cc3333cc"
   },
   "cylinderEdgeColor": {
-    "hex": "#CC4C4CCC"
+    "hex": "#cc4c4ccc"
   },
   "cylinderPointColor": {
-    "hex": "#CC33CCCC"
+    "hex": "#cc33cccc"
   }
 }
